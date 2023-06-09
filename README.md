@@ -1,6 +1,6 @@
 # ToDoApp
 
-ToDo App, kullanıcılara kişisel notlarını ekleme, güncelleme, önceliklendirme, önceliğe göre sıralama, silme ve arama olanağı sağlayarak harika bir deneyim sunmayı amaçlamaktadır.
+ToDo App aims to provide users with a great experience by allowing them to add, update, prioritize, list by priority, delete, and search their personal notes.
 
 ## Project Features
 - MVVM
